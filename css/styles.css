@@ -53,3 +53,17 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+
+.row
+{
+    padding:150px;
+}
+
+.newhr{
+      border: 5px solid orange;
+}
+
+.h3
+{
+    margin: 10px;
+}
